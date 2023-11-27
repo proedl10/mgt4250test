@@ -1,0 +1,5 @@
+pandas
+streamlit
+xlrd
+matplotlib
+scikit-learn
