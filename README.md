@@ -14,3 +14,10 @@ This is *especially* **important** because
 3. third reason [LINK](https://www.elon.edu)
 
 <img width="297" alt="Screenshot 2023-11-27 at 14 19 58" src="https://github.com/proedl10/mgt4250test/assets/152214737/d37d1197-5ac7-4bfb-a713-19f9419c1534">
+
+
+## Interpreting Visualizations
+<img width="407" alt="Screenshot 2023-11-27 at 14 23 04" src="https://github.com/proedl10/mgt4250test/assets/152214737/38b9c744-0008-4b35-a3e2-ab72dcf622e0">
+
+
+## Discussion & Summary
