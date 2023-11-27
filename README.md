@@ -21,3 +21,10 @@ This is *especially* **important** because
 
 
 ## Discussion & Summary
+Technological Impact:
+- Bar chart illustrating the distribution of income across different industries.
+- X-axis: Industries, Y-axis: Hourly Earnings.
+- Highlight industries with a significant technological impact. 
+- This data explains how the industry you work in affects income levels, and how gender also has a serious input.
+- By visualizing income distribution across industries, you can identify sectors where technological advancements may be contributing to income disparities. We can see which industries are most frequent in which locations, and see how this can impact income inequality.
+
